@@ -1,4 +1,4 @@
-# Launch-Checklist-Form - LaunchCode Web Design Porject 5
+# Launch-Checklist-Form - LaunchCode Web Design Project 5
 
 I used forms, the DOM, and HTTP to make a launch checklist.
 
